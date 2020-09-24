@@ -8,7 +8,7 @@ A coder who's more amateur than a photographer💻
 
 **Important**
 
-Enjoys making friends with people from all over the world😎
+Enjoy making friends with people from all over the world😎
 
 ## About my GitHub
 ![]( https://visitor-badge.glitch.me/badge?page_id=fyqfyqfyqfyq)
