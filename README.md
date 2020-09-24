@@ -10,7 +10,7 @@ A coder who's more amateur than a photographer💻
 
 Enjoys making friends with people from all over the world😎
 
-## About my github
+## About my GitHub
 
 ![]( https://visitor-badge.glitch.me/badge?page_id=fyqfyqfyqfyq)
 
