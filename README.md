@@ -11,7 +11,6 @@ A coder who's more amateur than a photographer💻
 Enjoys making friends with people from all over the world😎
 
 ## About my GitHub
-
 ![]( https://visitor-badge.glitch.me/badge?page_id=fyqfyqfyqfyq)
 
 ![fyqqyf's github stats](https://github-readme-stats.vercel.app/api?username=fyqqyf&show_icons=true&theme=Gradient)
