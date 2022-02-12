@@ -1,4 +1,4 @@
-# Hi there 👋
+### Hi there 👋
 > Whenever someone asks me if reinforcement learning can solve their problem, I tell them it can’t. I think this is right at least 70% of the time. 🤖️
 ```
    ___                     _    _                      _      ___   _____ 
