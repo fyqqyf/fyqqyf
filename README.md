@@ -20,5 +20,5 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fyqqyf)](https://github.com/anuraghazra/github-readme-stats) -->
 ### Something intersting...
 > Whenever someone asks me if reinforcement learning can solve their problem, I tell them it can’t. I think this is right at least 70% of the time. 🤖️
-### Heart rate 💗
+### Real-time heart rate 💗
 <div align=center><img src="https://raw.githubusercontent.com/fyqqyf/ibeats/main/files/heart.svg?token=GHSAT0AAAAAABOXAVFW33Z3KVIH5DTTWP4SYQWALOA"/></div>
