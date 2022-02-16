@@ -1,5 +1,5 @@
-### Hi there 👋
-> Whenever someone asks me if reinforcement learning can solve their problem, I tell them it can’t. I think this is right at least 70% of the time. 🤖️
+## Hi there 👋
+### About me 🧑🏻‍💻
 ```
    ___                     _    _                      _      ___   _____ 
   / __\ _ __   ___   __ _ | |_ (_) _ __    __ _       /_\    / _ \  \_   \
@@ -18,3 +18,7 @@
 ![](https://img.shields.io/badge/dynamic/json?color=4080EA&label=Followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dzxhy-1999&logo=zhihu&longCache=true)
 <!-- ![fyqqyf's github stats](https://github-readme-stats.vercel.app/api?username=fyqqyf&show_icons=true&theme=Gradient) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fyqqyf)](https://github.com/anuraghazra/github-readme-stats) -->
+### Something intersting...
+> Whenever someone asks me if reinforcement learning can solve their problem, I tell them it can’t. I think this is right at least 70% of the time. 🤖️
+### Heart rate 💗
+<div align=center><img src="https://raw.githubusercontent.com/fyqqyf/ibeats/main/files/heart.svg?token=GHSAT0AAAAAABOXAVFW33Z3KVIH5DTTWP4SYQWALOA"/></div>
