@@ -21,4 +21,4 @@
 ### Something intersting
 > Whenever someone asks me if reinforcement learning can solve their problem, I tell them it can’t. I think this is right at least 70% of the time. 🤖️
 ### Real-time heart rate 💗
-<div align=center><img src="https://raw.githubusercontent.com/fyqqyf/ibeats/main/files/heart.svg?token=GHSAT0AAAAAABOXAVFW33Z3KVIH5DTTWP4SYQWALOA"/></div>
+<div align=center><img src="https://github.com/fyqqyf/ibeats/blob/main/files/heart.svg"/></div>
