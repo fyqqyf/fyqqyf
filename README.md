@@ -18,7 +18,7 @@
 ![](https://img.shields.io/badge/dynamic/json?color=4080EA&label=Followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dzxhy-1999&logo=zhihu&longCache=true)
 <!-- ![fyqqyf's github stats](https://github-readme-stats.vercel.app/api?username=fyqqyf&show_icons=true&theme=Gradient) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fyqqyf)](https://github.com/anuraghazra/github-readme-stats) -->
-### Something intersting
-> Whenever someone asks me if reinforcement learning can solve their problem, I tell them it can’t. I think this is right at least 70% of the time. 🤖️
+### Something intersting 🤖️
+> Whenever someone asks me if reinforcement learning can solve their problem, I tell them it can’t. I think this is right at least 70% of the time. 
 ### Real-time heart rate 💗
 <div align=center><img src="https://github.com/fyqqyf/ibeats/blob/main/files/heart.svg"/></div>
