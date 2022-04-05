@@ -21,5 +21,5 @@
 ### Something intersting 🤖️
 > Whenever someone asks me if reinforcement learning can solve their problem, I tell them it can’t. I think this is right at least 70% of the time. 
 ### Real-time heart rate 💗
-> This proves that I am energetic! 🏃🏻‍♂️
+> This proves that I am ENERGETIC. 🏃🏻‍♂️
 <div align=center><img src="https://github.com/fyqqyf/ibeats/blob/main/files/heart.svg"/></div>
