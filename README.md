@@ -15,7 +15,7 @@
 / /___ | |   |  __/| (_| || |_ | || | | || (_| |    /  _  \/ /_\\ /\/ /_  
 \____/ |_|    \___| \__,_| \__||_||_| |_| \__, |    \_/ \_/\____/ \____/  
                                           |___/                           
-* 1999, Winter, PhD Student @ DRL｜ML
+* 1999, Winter
 * Skills: C++/Python, PyTorch, Making the kitten happy
 * Interests: CS(Computer Sicence & Counter-Strike), Game Theory in MARL, Writing/Coding/Photography
 ```
