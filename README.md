@@ -9,12 +9,12 @@
 <!-- ![fyqqyf's github stats](https://github-readme-stats.vercel.app/api?username=fyqqyf&show_icons=true&theme=Gradient) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fyqqyf)](https://github.com/anuraghazra/github-readme-stats) -->
 ```
-   ___                     _    _                      _      ___   _____ 
-  / __\ _ __   ___   __ _ | |_ (_) _ __    __ _       /_\    / _ \  \_   \
- / /   | '__| / _ \ / _` || __|| || '_ \  / _` |     //_\\  / /_\/   / /\/
-/ /___ | |   |  __/| (_| || |_ | || | | || (_| |    /  _  \/ /_\\ /\/ /_  
-\____/ |_|    \___| \__,_| \__||_||_| |_| \__, |    \_/ \_/\____/ \____/  
-                                          |___/                           
+ ______     ______     ______     ______     ______   __     __   __     ______        ______     ______     __    
+/\  ___\   /\  == \   /\  ___\   /\  __ \   /\__  _\ /\ \   /\ "-.\ \   /\  ___\      /\  __ \   /\  ___\   /\ \   
+\ \ \____  \ \  __<   \ \  __\   \ \  __ \  \/_/\ \/ \ \ \  \ \ \-.  \  \ \ \__ \     \ \  __ \  \ \ \__ \  \ \ \  
+ \ \_____\  \ \_\ \_\  \ \_____\  \ \_\ \_\    \ \_\  \ \_\  \ \_\\"\_\  \ \_____\     \ \_\ \_\  \ \_____\  \ \_\ 
+  \/_____/   \/_/ /_/   \/_____/   \/_/\/_/     \/_/   \/_/   \/_/ \/_/   \/_____/      \/_/\/_/   \/_____/   \/_/ 
+                                                                                                                   
 * 1999, Winter
 * Skills: C++/Python, PyTorch, Making the kitten happy
 * Interests: CS(Computer Sicence & Counter-Strike), Game Theory in MARL, Writing/Coding/Photography
