@@ -18,7 +18,7 @@
                                                                                                                       
 * 1999, Winter
 * Skills: C++/Python, PyTorch, Making the kitten happy
-* Interests: CS(Computer Sicence & Counter-Strike), Game Theory in MARL, Writing/Coding/Photography
+* Interests: CS(Computer Sicence or Counter-Strike? 😝), Game Theory in MARL, Writing/Coding/Photography
 ```
 ### Something intersting 🤖️ 
 > Whenever someone asks me if reinforcement learning can solve their problem, I tell them it can’t. I think this is right at least 70% of the time. 
