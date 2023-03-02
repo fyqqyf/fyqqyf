@@ -19,9 +19,9 @@
 ### What I'm listening to 🎧
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Chert_Fu&count=3&width=800)
 ### Something intersting 🤖️ 
-Whenever someone asks me if reinforcement learning can solve their problem, I tell them it can’t.
+"Whenever someone asks me if reinforcement learning can solve their problem, I tell them it can’t.
 
-I think this is right at least 70% of the time.
+I think this is right at least 70% of the time."
 ### Real-time heart rate 💥
 > which means that I am ENERGETIC. 🏃🏻‍♂️
 <div align=center><img src="https://github.com/fyqqyf/ibeats/blob/main/files/heart.svg"/></div>
