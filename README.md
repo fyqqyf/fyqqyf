@@ -7,14 +7,14 @@
 ![](https://dcbadge.vercel.app/api/shield/924470988157112341?theme=discord&style=flat)
 <!-- ![](https://img.shields.io/badge/dynamic/json?label=Followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dfyqqyf&color=bacf65&logo=github&longCache=true) -->
 <!-- ![fyqqyf's github stats](https://github-readme-stats.vercel.app/api?username=fyqqyf&show_icons=true&theme=Gradient) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fyqqyf)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fyqqyf)](https://github.com/anuraghazra/github-readme-stats) -->  
 ```
- ██████╗██████╗ ███████╗ █████╗ ████████╗██╗███╗   ██╗ ██████╗    █████╗  ██████╗ ██╗   
-██╔════╝██╔══██╗██╔════╝██╔══██╗╚══██╔══╝██║████╗  ██║██╔════╝   ██╔══██╗██╔════╝ ██║  * 1999, Winter
-██║     ██████╔╝█████╗  ███████║   ██║   ██║██╔██╗ ██║██║  ███╗  ███████║██║  ███╗██║  * Skills: Python, PyTorch, Making the kitten happy
-██║     ██╔══██╗██╔══╝  ██╔══██║   ██║   ██║██║╚██╗██║██║   ██║  ██╔══██║██║   ██║██║  * Interests: CS(Computer Sicence & Counter-Strike), 
-╚██████╗██║  ██║███████╗██║  ██║   ██║   ██║██║ ╚████║╚██████╔╝  ██║  ██║╚██████╔╝██║    Game Theory in MARL, Writing/Coding/Photography
- ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝╚═╝  ╚═══╝ ╚═════╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝
+ █████╗  ██████╗ ███████╗███╗   ██╗████████╗███████╗██╗
+██╔══██╗██╔════╝ ██╔════╝████╗  ██║╚══██╔══╝██╔════╝██║  * 1999, Winter
+███████║██║  ███╗█████╗  ██╔██╗ ██║   ██║   ███████╗██║  * 22 Fall PhD Student @ RL
+██╔══██║██║   ██║██╔══╝  ██║╚██╗██║   ██║   ╚════██║╚═╝  * Interests: CS(Computer Science & Counter-Strike),
+██║  ██║╚██████╔╝███████╗██║ ╚████║   ██║   ███████║██╗    Game Theory in MARL, Writing/Coding/Photography
+╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═══╝   ╚═╝   ╚══════╝╚═╝
 ```
 <!--START_SECTION:waka-->
 
@@ -22,15 +22,16 @@
 Python     6 hrs 13 mins   ███████████████████████░░   91.48 %
 Bash       30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
 Ezhil      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+TSQL       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
 ### What I'm listening to 🎧
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Chert_Fu&count=3&width=800)
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Chert_Fu&count=3&width=400)
 ### Something interesting 🤖️ 
-"Whenever someone asks me if reinforcement learning can solve their problem, I tell them it can’t.
-
-I think this is right at least 70% of the time."
-### Real-time heart rate 💥
-> which means that I am ENERGETIC. 🏃🏻‍♂️
+>Whenever someone asks me if Reinforcement Learning can solve their problem, I tell them it can’t.
+>
+>I think this is right at least 70% of the time.
+### Real-time heart rate 💥 🏃🏻‍♂️
 <div align=center><img src="https://github.com/fyqqyf/ibeats/blob/main/files/heart.svg"/></div>
