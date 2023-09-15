@@ -16,7 +16,8 @@
 ╚██████╗██║  ██║███████╗██║  ██║   ██║   ██║██║ ╚████║╚██████╔╝  ██║  ██║╚██████╔╝██║    Game Theory in MARL, Writing/Coding/Photography
  ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝╚═╝  ╚═══╝ ╚═════╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝
 ```
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ### What I'm listening to 🎧
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Chert_Fu&count=3&width=800)
 ### Something interesting 🤖️ 
