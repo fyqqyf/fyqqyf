@@ -19,8 +19,8 @@
 <!--START_SECTION:waka-->
 
 ```Python
-Python     5 hrs 21 mins   ████████████████████▓░░░░   82.91 %
-Bash       30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
+Python     3 hrs 48 mins   ████████████████████▒░░░░   80.90 %
+JSON       25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
 ```
 
 <!--END_SECTION:waka-->
