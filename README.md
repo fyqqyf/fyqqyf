@@ -19,8 +19,8 @@
 <!--START_SECTION:waka-->
 
 ```Python
-Python       3 hrs 15 mins   ██████████████▓░░░░░░░░░░   58.39 %
-YAML         48 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.63 %
+Python       3 hrs 4 mins    ███████████████▓░░░░░░░░░   63.10 %
+BibTeX       40 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.87 %
 ```
 
 <!--END_SECTION:waka-->
