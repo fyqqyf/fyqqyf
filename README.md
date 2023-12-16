@@ -19,8 +19,8 @@
 <!--START_SECTION:waka-->
 
 ```Python
-BibTeX   40 mins         ██████████████████▓░░░░░░   74.76 %
-Python   13 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.24 %
+BibTeX   40 mins         ██████████████████▓░░░░░░   74.78 %
+Python   13 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.22 %
 ```
 
 <!--END_SECTION:waka-->
