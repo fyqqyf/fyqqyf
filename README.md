@@ -19,8 +19,8 @@
 <!--START_SECTION:waka-->
 
 ```Python
-TeX      4 hrs 1 min     ██████████████░░░░░░░░░░░   56.19 %
-Python   2 hrs 36 mins   █████████░░░░░░░░░░░░░░░░   36.27 %
+Python   4 hrs 57 mins   █████████████░░░░░░░░░░░░   52.64 %
+TeX      4 hrs 1 min     ██████████▓░░░░░░░░░░░░░░   42.85 %
 ```
 
 <!--END_SECTION:waka-->
