@@ -19,8 +19,8 @@
 <!--START_SECTION:waka-->
 
 ```Python
-Text         12 mins         ████████████░░░░░░░░░░░░░   48.55 %
-SSH Config   7 mins          ███████░░░░░░░░░░░░░░░░░░   28.61 %
+Markdown     15 mins         ███████████░░░░░░░░░░░░░░   43.50 %
+Text         12 mins         █████████░░░░░░░░░░░░░░░░   35.41 %
 ```
 
 <!--END_SECTION:waka-->
