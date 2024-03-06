@@ -16,6 +16,7 @@
 ██║  ██║╚██████╔╝███████╗██║ ╚████║   ██║   ███████║██╗    Game Theory in MARL, Writing/Coding/Photography
 ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═══╝   ╚═╝   ╚══════╝╚═╝
 ```
+### 📊 Weekly development time
 <!--START_SECTION:waka-->
 
 ```Python
@@ -24,11 +25,11 @@ Text         35 mins         ██░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-### What I'm listening to 🎧
+### 🎧 What I'm listening to 
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Chert_Fu&count=3&width=400)
-### Something interesting 🤖️ 
+### 🤖️ Something interesting  
 >Whenever someone asks me if Reinforcement Learning can solve their problem, I tell them it can’t.
 >
 >I think this is right at least 70% of the time.
-### Real-time heart rate 💥 🏃🏻‍♂️
+### 🏃🏻‍♂️ Real-time heart rate 
 <div align=center><img src="https://github.com/fyqqyf/ibeats/blob/main/files/heart.svg"/></div>
