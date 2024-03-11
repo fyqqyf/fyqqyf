@@ -25,6 +25,7 @@ YAML         54 mins         ▓░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+<!--[GitHub stats](https://github-readme-stats.vercel.app/api?username=fyqfyq&theme=buefy&show_icons=true)-->
 ### 🎧 What I'm listening to 
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Chert_Fu&count=3&width=400)
 ### 🤖️ Something interesting  
