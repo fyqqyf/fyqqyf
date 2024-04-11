@@ -20,8 +20,8 @@
 <!--START_SECTION:waka-->
 
 ```Python
-Python         1 hr 7 mins     ████████████████████████▒   97.88 %
-Markdown       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+Python         1 hr 6 mins     █████████████████████████   99.37 %
+OpenEdge ABL   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
 
 <!--END_SECTION:waka-->
