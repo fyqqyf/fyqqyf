@@ -20,8 +20,8 @@
 <!--START_SECTION:waka-->
 
 ```Python
-Python     3 hrs 39 mins   █████████████████████░░░░   83.61 %
-Markdown   27 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 %
+Python     6 hrs 20 mins   ████████████████████████░   96.14 %
+TOML       13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
 ```
 
 <!--END_SECTION:waka-->
