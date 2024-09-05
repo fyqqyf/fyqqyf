@@ -20,8 +20,8 @@
 <!--START_SECTION:waka-->
 
 ```Python
-Python   1 hr 23 mins    █████████████▓░░░░░░░░░░░   54.28 %
-YAML     1 hr 8 mins     ███████████░░░░░░░░░░░░░░   44.14 %
+YAML     1 hr 29 mins    ████████████▒░░░░░░░░░░░░   49.94 %
+Python   1 hr 21 mins    ███████████▒░░░░░░░░░░░░░   45.37 %
 ```
 
 <!--END_SECTION:waka-->
